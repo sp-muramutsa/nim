@@ -1,4 +1,4 @@
-# 🧠 Nim Game with Q-Learning AI
+# 🧠 Q-Learning AI Agent in Nim Game
 ---
 
 ## 📖 Project Overview
