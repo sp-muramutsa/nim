@@ -1,13 +1,4 @@
 # 🧠 Nim Game with Q-Learning AI
-
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Q-learning](https://img.shields.io/badge/Q--learning-Reinforcement--Learning-brightgreen)
-![Epsilon-Greedy](https://img.shields.io/badge/Strategy-Epsilon--Greedy-yellow)
-![Learning Rate](https://img.shields.io/badge/alpha-0.5-red)
-![Exploration Rate](https://img.shields.io/badge/epsilon-0.1-orange)
-![CLI](https://img.shields.io/badge/Interface-Terminal-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-brightgreen)
-
 ---
 
 ## 📖 Project Overview
